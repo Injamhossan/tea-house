@@ -1,0 +1,9 @@
+.manrope-normal {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+:root{
+    --primary-color: #D22C34;
+}
