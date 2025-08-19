@@ -3,11 +3,8 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
-* {
-  padding: 0;
-  margin: 0;
-}
-:root{
-    --primary-color: #D22C34;
-}
 
+
+p {
+  color: gray;
+}
